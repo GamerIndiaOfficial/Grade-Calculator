@@ -1,4 +1,4 @@
-print("Percentage Calculator")
+print("Grade Calculator")
 subject = input("Enter the name of the subject: ")
 max = int(input("Enter the maximum marks: "))
 marks = int(input("Enter the marks you got: ")) #Int is used for whole numbers
